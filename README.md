@@ -24,7 +24,13 @@ If you are developing a production application, we recommend using TypeScript wi
 - Login Form
 - SignUp Form (name, email, password)
 - Validations in Form
-
+- deploying app to production
+- create SignUp/Signin User Functionality
+- Redux store with user slice
+- we will be using onAuth state changed firebase utility
+- navigate user to browse page
+- Implemented signout
+- Update Profile API call
 
 # Features
 - Login/SignUp
