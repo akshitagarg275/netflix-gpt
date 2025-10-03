@@ -19,6 +19,12 @@ If you are developing a production application, we recommend using TypeScript wi
 
 - using vite created the app
 - configured tailwind css
+- routing configuration
+- Header
+- Login Form
+- SignUp Form (name, email, password)
+- Validations in Form
+
 
 # Features
 - Login/SignUp
