@@ -19,3 +19,20 @@ If you are developing a production application, we recommend using TypeScript wi
 
 - using vite created the app
 - configured tailwind css
+
+# Features
+- Login/SignUp
+    - Sign In / Sign Up Form
+    - redirect to browse page
+
+- BrowsePage (after auhenticatiom)
+    - Header
+    - main movie
+        - Trailer in background
+        - Title & Description
+        - MovieSuggestions
+            - MovieLists * N
+
+- Netflix GPT
+ - Search Bar
+ - Movie Suggestions
